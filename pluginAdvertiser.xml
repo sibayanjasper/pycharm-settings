@@ -1198,6 +1198,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.vue">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.vue" />
+              <option name="myPluginName" value="Vue.js" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.war">
           <value>
             <plugin>

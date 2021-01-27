@@ -3,6 +3,12 @@
   <PostgresCodeStyleSettings version="5">
     <option name="USE_GENERAL_STYLE" value="false" />
   </PostgresCodeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="PostgreSQL">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
