@@ -1,0 +1,7 @@
+<application>
+  <component name="SourceryConfigService">
+    <option name="pluginVersion" value="0.9.0" />
+    <option name="sourceryExecutable" value="$APPLICATION_PLUGINS_DIR$/sourcery/sourcery_binaries/install/linux/sourcery" />
+    <option name="sourceryVersion" value="Unknown" />
+  </component>
+</application>
