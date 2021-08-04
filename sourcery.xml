@@ -4,6 +4,6 @@
     <option name="sourceryExecutable" value="$APPLICATION_PLUGINS_DIR$/sourcery/sourcery_binaries/install/linux/sourcery" />
     <option name="sourceryProductName" value="Free" />
     <option name="sourceryToken" value="user_ZhzDOpUSc2ZKfyJ5U11ShBZy0qy8M6o_6K36UuZuXXz8_3rVAcY6EexS3tY" />
-    <option name="sourceryVersion" value="Unknown" />
+    <option name="sourceryVersion" value="0.9.0" />
   </component>
 </application>
