@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Server" />
-    <option name="defaultScopeName" value="Server" />
-    <option name="SEARCH_SCOPE" value="Server" />
+    <option name="customScope" value="API" />
+    <option name="defaultScopeName" value="API" />
+    <option name="SEARCH_SCOPE" value="API" />
   </component>
 </application>
