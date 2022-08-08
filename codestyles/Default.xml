@@ -1,8 +1,5 @@
 <code_scheme name="Default" version="173">
   <option name="SOFT_MARGINS" value="80,100" />
-  <PostgresCodeStyleSettings version="5">
-    <option name="USE_GENERAL_STYLE" value="false" />
-  </PostgresCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
